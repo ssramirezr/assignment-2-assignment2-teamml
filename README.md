@@ -4,8 +4,8 @@
 
 ## Versions of OS, Programming Language and Tools Used
 * ***Operative System:*** **Windows 11 Home Version 23H2**
-* ***Programming Language Used:*** *Python 3.11*
-* ***Tools Used in the Implementation:*** *No external libraries were used, code was inspired by [Geeks For Geeks](https://www.geeksforgeeks.org/cocke-younger-kasami-cyk-algorithm/)*
+* ***Programming Language Used:*** **Python 3.11**
+* ***Tools Used in the Implementation:*** **No external libraries were used, code was inspired by [Geeks For Geeks](https://www.geeksforgeeks.org/cocke-younger-kasami-cyk-algorithm/)**
 
 ## Instructions to run the program
 Using a python IDE you can open the main.py file and click on the run button, or alternatively, by using the CMD you can type py main.py to start running the program.
